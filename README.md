@@ -13,7 +13,7 @@
 <h2>📜 Certifications:</h2>
 
 - **[CompTIA Security+](http://verify.CompTIA.org)**  
-  *Certificate ID: COMP001022303385*  
+  *Certificate ID: DY3Y8QXRL1F114G8*  
   *[Verify Here](http://verify.CompTIA.org)*
 
 - **[Google Cybersecurity Certificate](https://coursera.org/verify/professional-cert/0QOEYNJMYQ5Y)**  
