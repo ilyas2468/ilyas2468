@@ -9,6 +9,8 @@
     *Created a tool to crack SHA256 hashed passwords using a dictionary attack. This project highlights hash vulnerability awareness and cracking techniques.*
   - [**Web Login Form Brute Forcing**](https://github.com/ilyas2468/Web-Login-Form-Brute-Forcing)
     *Automated brute force attacks on web login forms using Python and libraries like `requests`. Focused on identifying weak password mechanisms and testing web application security.*
+  - [**Exploiting a SQL Injection**](https://github.com/ilyas2468/Exploiting-a-SQL-Injection)
+  - Flask web application and a testing script designed to interact with the login system to identify potential security vulnerabilities.
 
 <h2>📜 Certifications:</h2>
 
