@@ -24,7 +24,7 @@
 
 <h2>🔧 Technical Skills:</h2>
 
-- Python, TCP/IP, DNS, Firewalls, AWS (EC2, S3, IAM), Windows Active Directory, Virus Scanning, Wireshark, Suricata
+- Python, TCP/IP, DNS, Firewalls, AWS (EC2, S3, IAM), Windows Active Directory, Virus Scanning, Wireshark, 
 - **Tools:** Visual Studio Code, Oracle VirtualBox, Microsoft Sentinel, INetSim, FLARE VM, REMnux
 
 <!--
