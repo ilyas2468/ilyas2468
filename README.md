@@ -25,7 +25,7 @@
 <h2>🔧 Technical Skills:</h2>
 
 - Python, TCP/IP, DNS, Firewalls, AWS (EC2, S3, IAM), Windows Active Directory, Virus Scanning, Wireshark, 
-- **Tools:** Visual Studio Code, Oracle VirtualBox, Microsoft Sentinel, INetSim, FLARE VM, REMnux
+- **Tools:** Splunk, Visual Studio Code, Oracle VirtualBox, Microsoft Sentinel, INetSim, FLARE VM, REMnux
 
 <!--
 **ilyas2468/ilyas2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
