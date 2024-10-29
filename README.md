@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Python</b>
+- <b>Python Automation Labs</b>
   - [**SSH Login Brute Forcing**](https://github.com/ilyas2468/SSH-Login-Brute-Forcing/tree/main)  
     *Developed a Python script to simulate brute force attacks on SSH login credentials. The project demonstrates methods for testing password strength and SSH security in a controlled environment.*
   - [**SHA256 Password Cracking**](https://github.com/ilyas2468/SHA256-Password-Cracking/tree/main)  
