@@ -4,7 +4,7 @@
 
 - <b>Keylogging-a-System </b>
   - [**Keylogging with Python, ctypes, and Windows API functions.**](https://github.com/ilyas2468/Keylogging-a-System/tree/main)
-    *Python-based keylogger tool to demonstrate keyboard event capture and logging.
+    *Python-based keylogger tool to demonstrate keyboard event capture and logging.*
 
 - <b>Python Automation Labs</b>
   - [**SSH Login Brute Forcing**](https://github.com/ilyas2468/SSH-Login-Brute-Forcing/tree/main)  
