@@ -4,7 +4,7 @@
 
 - <b>Keylogging-a-System </b>
   - [**Keylogging with Python, ctypes, and Windows API functions.**](https://github.com/ilyas2468/Keylogging-a-System/tree/main)
-    *Python-based keylogger tool to demonstrate keyboard event capture and logging.*
+   *Python-based keylogger tool to demonstrate keyboard event capture and logging.*
 
 - <b>Python Automation Labs</b>
   - [**SSH Login Brute Forcing**](https://github.com/ilyas2468/SSH-Login-Brute-Forcing/tree/main)  
@@ -14,7 +14,7 @@
   - [**Web Login Form Brute Forcing**](https://github.com/ilyas2468/Web-Login-Form-Brute-Forcing)
     *Automated brute force attacks on web login forms using Python and libraries like `requests`. Focused on identifying weak password mechanisms and testing web application security.*
   - [**Exploiting a SQL Injection**](https://github.com/ilyas2468/Exploiting-a-SQL-Injection)
-  - Flask web application and a testing script designed to interact with the login system to identify potential security vulnerabilities.
+   *Flask web application and a testing script designed to interact with the login system to identify potential security vulnerabilities.*
 
 <h2>📜 Certifications:</h2>
 
