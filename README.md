@@ -1,6 +1,6 @@
 <h1> Ilyas Siddiqui</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Technical Projects:</h2>
 
 - <b>Keylogging-a-System </b>
   - [**Keylogging with Python, ctypes, and Windows API functions.**](https://github.com/ilyas2468/Keylogging-a-System/tree/main)
